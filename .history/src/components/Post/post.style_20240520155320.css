@@ -1,0 +1,18 @@
+.post{
+    display: flex;
+    width: max-content;
+}
+.post__head{
+    display: flex;;
+    justify-content: center;
+    f
+}
+.post__image{
+
+}
+.post__text{
+
+}
+.post__tags{
+
+}

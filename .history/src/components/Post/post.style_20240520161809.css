@@ -1,0 +1,21 @@
+.post{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid greenyellow;
+    max-height: 40%;
+}
+.post__head{
+    display: flex;
+    justify-content: center;
+}
+.post__image{
+    margin: 0;
+}
+.post__text{
+
+}
+.post__tags{
+
+}

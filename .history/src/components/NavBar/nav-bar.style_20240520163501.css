@@ -1,0 +1,56 @@
+body{
+  padding: 0%;
+}
+
+.nav-bar{
+  border-bottom: ;
+    top:0%;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    background-color: rgb(9, 96, 177);
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .sign-panel{
+    display: flex;
+    white-space: nowrap;
+    margin:1%;
+    margin-right: 7%;
+  }
+  
+  .sign-panel>div{
+    width: max-content;
+  
+  }
+  
+  h1{
+    display: inline-block;
+    position: relative;
+    transform: translate(50% 50%);
+    right: 25%;
+    color: azure;
+    
+  }
+  
+  .sign-up{
+    background-color: rgb(233, 126, 183);
+  }
+  
+  span{
+    margin: 2%;
+    text-wrap: nowrap;
+    font-size: 120%;
+    border-radius: 10%;
+    background-color: azure;
+    word-wrap: nowrap;
+    padding: 12%;
+  }
+
+  .nav-bar__image{
+    margin-left: 3%;
+    width: 12%;
+    height: 12%;
+    
+  }

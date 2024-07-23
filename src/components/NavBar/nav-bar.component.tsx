@@ -7,8 +7,8 @@ function NavBarDefault() {
             </div>
             <h1>General</h1>
             <div className="sign-panel">
-                <span className="sign-in">Sign In</span>
-                <span className="sign-up">Sign Up</span>
+                <button className="sign-in">Sign In</button>
+                <button className="sign-up">Sign Up</button>
             </div>
         </header>
     )
